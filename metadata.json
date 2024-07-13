@@ -1,0 +1,8 @@
+{
+  "name": "Automatic Google-Calendar for Caffeine",
+  "description": "Connects Caffeine timer to the creation of Google-Calendar tasks",
+  "uuid": "automatic-google-calendar-for-caffeine@chm46e.github.com",
+  "shell-version": [
+    "45"
+  ]
+}
